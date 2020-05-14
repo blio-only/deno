@@ -5,7 +5,7 @@ A secure runtime for JavaScript and TypeScript.
 [![Build Status](https://github.com/denoland/deno/workflows/ci/badge.svg?branch=master&event=push)](https://github.com/denoland/deno/actions)
 
 Deno aims to provide a productive and secure scripting environment for the
-modern programmer. It is built on top of V8, Rust, and TypeScript.
+modern programmer. It is built on top of V8, Rust, TypeScript and uses Tokio (an event loop).
 
 Please read the [introduction](https://deno.land/manual#introduction) for more
 specifics.
@@ -27,3 +27,5 @@ specifics.
 [Chat](https://discord.gg/TGMHGv6)
 
 [More links](https://github.com/denolib/awesome-deno)
+
+[Quick Introduction Video](https://www.youtube.com/watch?v=_vdV6mOKxNE)
